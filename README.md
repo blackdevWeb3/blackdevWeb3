@@ -51,10 +51,6 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 <table align="center" class="table table-dark">
   <tr bg-dark>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
-      <br>C
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="55" height="55" />
       <br>C++
     </td>
@@ -67,15 +63,11 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>CSS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
       <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React Js
     </td>
     <td align="center" width="90">
@@ -83,15 +75,19 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>Tailwind
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
       <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
+      <br>Vite
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="55" height="55" />
+      <br>vscode
     </td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=qt" alt="icon" width="55" height="55" />
-      <br>Qt
-    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
       <br>Express
@@ -101,28 +97,32 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>Node Js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=django" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
       <br>django
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/cosmos.png" alt="icon" width="55" height="55" />
+      <br>Cosmos
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=github" alt="icon" width="55" height="55" />
       <br>GitHub
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
-      <br>Git
+      <img src="./icons/ethereum.png" alt="icon" width="55" height="55" />
+      <br>Ethereum
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
-      <br>Figma
+      <img src="./icons/solana.png" alt="icon" width="55" height="55" />
+      <br>Solana
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="55" height="55" />
-      <br>vscode
+      <img src="./icons/ton.png" alt="icon" width="55" height="55" />
+      <br>Ton
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
-      <br>Vite
+      <img src="./icons/sui.png" alt="icon" width="55" height="55" />
+      <br>Sui
     </td>
   </tr>
   <tr>
@@ -139,7 +139,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>Solidity
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
     </td>
     <td align="center" width="90">
@@ -185,16 +185,16 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=graphql" alt="icon" width="55" height="55" />
-      <br>Graphql
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>SQL
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/openai.svg" alt="icon" width="55" height="55" />
+      <br>OpenAI
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="55" height="55" />
       <br>Dart
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="55" height="55" />
-      <br>Vercel
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=photoshop" alt="icon" width="55" height="55" />
