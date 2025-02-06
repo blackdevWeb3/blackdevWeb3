@@ -12,7 +12,7 @@
 Experienced Web Developer adept in all stages of advanced web development with 8+ years experience building smart websites and 5+ years working with Blockchain technologies. Quickly learn and master new technologies and working in both team and self-directed settings. Adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction. As a problem solver, I always strive to deliver good value to clients and works very well with team members.
 
 
-<p align="left"> <a href="https://twitter.com/x_harukitanaka" target="blank"><img src="https://img.shields.io/twitter/follow/x_harukitanaka?logo=twitter&style=for-the-badge" alt="x_harukitanaka" /></a> </p>
+<p align="left"> <a href="https://twitter.com/blackdevWev3" target="blank"><img src="https://img.shields.io/twitter/follow/blackdevWev3?logo=twitter&style=for-the-badge" alt="blackdevWev3" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 
