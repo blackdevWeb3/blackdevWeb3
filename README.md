@@ -33,8 +33,6 @@
     <img width="380em" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=blackdevweb3&" alt="blackdevweb3" />
 </p>
 
-<img width="380em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackdevweb3&show_icons=true&locale=en&layout=compact" alt="blackdevweb3" />
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackdevweb3" alt="blackdevweb3" /></a> </p>
